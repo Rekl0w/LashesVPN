@@ -19,7 +19,7 @@ const Global = () => {
         </div>
         <div className="flex justify-center items-center">
             <img
-                src="../../../public/pngs/map-brands.png"
+                src="../../../pngs/map-brands.png"
                 alt="map"
                 className=" mt-10"
             />

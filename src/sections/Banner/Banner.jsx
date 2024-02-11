@@ -23,7 +23,7 @@ const Banner = () => {
         </div>
         <div>
           <img
-            src="../../../public/pngs/banner.png"
+            src="../../../pngs/banner.png"
             alt="banner"
             className="w-[600px] h-[400px]"
           />
@@ -33,7 +33,7 @@ const Banner = () => {
         <div className="flex justify-center gap-96 items-center shadow-lg w-10/12 p-16 rounded-2xl ">
           <div className="flex justify-center items-center gap-10">
             <img
-              src="../../../public/pngs/user.png"
+              src="../../../pngs/user.png"
               className="w-full h-full"
               alt="Product 1"
             />
@@ -46,7 +46,7 @@ const Banner = () => {
           <div className="bg-[#EEEFF2] w-[2px] h-32 absolute mr-[600px]"></div>
           <div className="flex justify-center items-center gap-10">
             <img
-              src="../../../public/pngs/location.png"
+              src="../../../pngs/location.png"
               className="w-full h-full"
               alt="Product 2"
             />
@@ -59,7 +59,7 @@ const Banner = () => {
           <div className="bg-[#EEEFF2] w-[2px] h-32 absolute ml-[600px]"></div>
           <div className="flex justify-center items-center gap-10">
             <img
-              src="../../../public/pngs/database.png"
+              src="../../../pngs/database.png"
               className="w-full h-full"
               alt="Product 3"
             />

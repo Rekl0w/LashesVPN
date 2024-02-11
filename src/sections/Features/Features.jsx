@@ -3,7 +3,7 @@ const Features = () => {
       <div className="flex justify-around w-full items-center px-56" style={{fontFamily: "Rubik"}}>
         <div>
           <img
-            src="../../../public/pngs/feature.png"
+            src="../../../pngs/feature.png"
             alt="banner"
             className="w-[500px] h-[400px]"
           />
@@ -20,7 +20,7 @@ const Features = () => {
             <ul className="flex-col flex gap-4">
                 <li className="flex items-center gap-10">
                     <img
-                    src="../../../public/pngs/check.png"
+                    src="../../../pngs/check.png"
                     alt="check"
                     className="w-[24px] h-[24px]"
                     />
@@ -28,7 +28,7 @@ const Features = () => {
                 </li>
                 <li className="flex items-center gap-10">
                     <img
-                    src="../../../public/pngs/check.png"
+                    src="../../../pngs/check.png"
                     alt="check"
                     className="w-[24px] h-[24px]"
                     />
@@ -36,7 +36,7 @@ const Features = () => {
                 </li>
                 <li className="flex items-center gap-10">
                     <img
-                    src="../../../public/pngs/check.png"
+                    src="../../../pngs/check.png"
                     alt="check"
                     className="w-[24px] h-[24px]"
                     />
@@ -44,7 +44,7 @@ const Features = () => {
                 </li>
                 <li className="flex items-center gap-10">
                     <img
-                    src="../../../public/pngs/check.png"
+                    src="../../../pngs/check.png"
                     alt="check"
                     className="w-[24px] h-[24px]"
                     />

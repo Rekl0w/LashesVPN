@@ -23,29 +23,29 @@ const Pricing = () => {
           <div className="flex-col gap-5 mt-10 h-[760px] w-[330px] text-center items-center flex border-2 justify-between py-10 rounded-lg">
             <div className="flex flex-col justify-center items-center gap-5">
               <div className="flex-col flex items-center gap-10 mb-6">
-                <img src="../../../public/pngs/free.png" alt="" />
+                <img src="../../../pngs/free.png" alt="" />
                 <h1 className="text-xl font-semibold text-[#1D1E28] leading-normal">
                   Free Plan
                 </h1>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] ">Unlimited Bandwitch</span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
                 <img
-                  src="../../../public/pngs/group-borderless.png"
+                  src="../../../pngs/group-borderless.png"
                   className="ml-2"
                   alt=""
                 />
                 <span className="text-[#4F5665]">Encrypted Connection</span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] mr-12">No Traffic Logs</span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] mr-2">
                   Works on All Devices
                 </span>
@@ -67,35 +67,35 @@ const Pricing = () => {
           <div className="flex-col gap-5 mt-10 h-[760px] w-[330px] text-center items-center flex border-2 justify-between py-10 rounded-lg">
             <div className="flex flex-col justify-center items-center gap-5">
               <div className="flex-col flex items-center gap-10 mb-6">
-                <img src="../../../public/pngs/standard.png" alt="" />
+                <img src="../../../pngs/standard.png" alt="" />
                 <h1 className="text-xl font-semibold text-[#1D1E28] leading-normal">
                   Standard Plan
                 </h1>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] ">Unlimited Bandwitch</span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
                 <img
-                  src="../../../public/pngs/group-borderless.png"
+                  src="../../../pngs/group-borderless.png"
                   className="ml-2"
                   alt=""
                 />
                 <span className="text-[#4F5665]">Encrypted Connection</span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] mr-[76px]">Traffic Logs</span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] mr-3">
                   Works on All Devices
                 </span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] mr-5">Connect Anywhere</span>
               </div>
               <div className="flex items-center justify-center gap-5"></div>
@@ -117,39 +117,39 @@ const Pricing = () => {
           <div className="flex-col gap-5 mt-10 h-[760px] w-[330px] text-center items-center flex border-2 border-[#F53838] justify-between py-10 rounded-lg">
             <div className="flex flex-col justify-center items-center gap-5">
               <div className="flex-col flex items-center gap-10 mb-6">
-                <img src="../../../public/pngs/premium.png" alt="" />
+                <img src="../../../pngs/premium.png" alt="" />
                 <h1 className="text-xl font-semibold text-[#1D1E28] leading-normal">
                   Premium Plan
                 </h1>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] ">Unlimited Bandwitch</span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
                 <img
-                  src="../../../public/pngs/group-borderless.png"
+                  src="../../../pngs/group-borderless.png"
                   className="ml-2"
                   alt=""
                 />
                 <span className="text-[#4F5665]">Encrypted Connection</span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] mr-[76px]">Traffic Logs</span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] mr-3">
                   Works on All Devices
                 </span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] mr-5">Connect Anywhere</span>
               </div>
               <div className="flex items-center gap-5 w-full justify-center">
-                <img src="../../../public/pngs/group-borderless.png" alt="" />
+                <img src="../../../pngs/group-borderless.png" alt="" />
                 <span className="text-[#4F5665] mr-8">Get New Features</span>
               </div>
             </div>

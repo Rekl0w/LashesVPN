@@ -5,20 +5,20 @@ const Footer = () => {
                 <div className="flex gap-96">
                     <div>
                         <div className="flex items-center mb-8">
-                            <img src="../../../public/pngs/logo.png" alt="LashesVPN Logo" className="" />
+                            <img src="../../../pngs/logo.png" alt="LashesVPN Logo" className="" />
                         </div>
                         <p className="text-[#4F5665]">
                             <span className='font-bold'>LaslesVPN</span> is a private virtual network that <br /> has unique features and has high security.
                         </p>
                         <div className="flex mt-4">
                             <button>
-                                <img src="../../../public/pngs/facebook.png" alt="Facebook" />
+                                <img src="../../../pngs/facebook.png" alt="Facebook" />
                             </button>
                             <button>
-                                <img src="../../../public/pngs/twitter.png" alt="Twitter" />
+                                <img src="../../../pngs/twitter.png" alt="Twitter" />
                             </button>
                             <button>
-                                <img src="../../../public/pngs/instagram.png" alt="instagram" />
+                                <img src="../../../pngs/instagram.png" alt="instagram" />
                             </button>
                         </div>
                         <p className="text-[#AFB5C0]">

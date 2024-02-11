@@ -5,7 +5,7 @@ export default function Topbar() {
         <div className="flex justify-between items-center py-4">
           <div>
             <button href="/">
-              <img src="../../../public/pngs/logo.png" alt="" />
+              <img src="../../../pngs/logo.png" alt="" />
             </button>
           </div>
           <div>

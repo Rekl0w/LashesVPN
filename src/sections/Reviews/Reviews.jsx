@@ -41,7 +41,7 @@ const Reviews = () => {
   const userReviews = [
     {
       id: 0,
-      avatar: "../../../public/pngs/person1.png",
+      avatar: "../../../pngs/person1.png",
       name: "Viezh Robert",
       location: "Warsaw, Poland",
       comment:
@@ -49,7 +49,7 @@ const Reviews = () => {
     },
     {
       id: 1,
-      avatar: "../../../public/pngs/person2.png",
+      avatar: "../../../pngs/person2.png",
       name: "Yessica Christy",
       location: "Shanxi, China",
       comment:
@@ -57,7 +57,7 @@ const Reviews = () => {
     },
     {
       id: 2,
-      avatar: "../../../public/pngs/person3.png",
+      avatar: "../../../pngs/person3.png",
       name: "Kim Young Jou",
       location: "Seoul, South Korea",
       comment:
@@ -115,7 +115,7 @@ const Reviews = () => {
                   </div>
                   <div className="flex ml-28">
                     <img
-                      src="../../../public/pngs/star.png"
+                      src="../../../pngs/star.png"
                       alt="star"
                       className="w-[24px] h-[24px]"
                     />
