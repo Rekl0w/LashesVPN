@@ -1,6 +1,6 @@
 # LaslesVPN Landing Page 
 
-![LaslesVPN Screenshot](/LashesVPN/img/home.png)
+![LaslesVPN Screenshot](./img/home.png)
 
 This application allows users to explore a static VPN website. It has been developed using technologies such as Vue.js, Tailwind CSS, and Glide.js.
 
