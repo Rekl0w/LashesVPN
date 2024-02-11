@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Banner = () => {
   return (
     <div className="pt-40 pb-40" style={{ fontFamily: "Rubik" }}>
@@ -31,7 +29,7 @@ const Banner = () => {
           />
         </div>
       </div>
-      <div className=" mt-36 w-full flex items-center justify-center">
+      <div className="mt-36 w-full flex items-center justify-center bg-white">
         <div className="flex justify-center gap-96 items-center shadow-lg w-10/12 p-16 rounded-2xl ">
           <div className="flex justify-center items-center gap-10">
             <img

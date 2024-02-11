@@ -1,7 +1,7 @@
 const Subscribe = () => {
     return (
       <div
-        className="-mt-36 w-full flex items-center justify-center z-50 pb-40"
+        className="-mt-36 absolute w-full flex items-center justify-center z-50 pb-40"
         style={{ fontFamily: "Rubik" }}
       >
         <div className="flex justify-between bg-white gap-96 items-center shadow-lg w-10/12 p-16 rounded-2xl ">
@@ -10,7 +10,7 @@ const Subscribe = () => {
               Subscribe Now for <br /> Get Special Features!{" "}
             </h1>
             <p className="mt-8 text-xl text-[#4F5665]">
-              Let's subscribe with us and find the fun.
+              Let&apos;s subscribe with us and find the fun.
             </p>
           </div>
           <button
