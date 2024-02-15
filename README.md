@@ -2,7 +2,7 @@
 
 ![LaslesVPN Screenshot](./img/home.png)
 
-This application allows users to explore a static VPN website. It has been developed using technologies such as Vue.js, Tailwind CSS, and Glide.js.
+This application allows users to explore a static VPN website. It has been developed using technologies such as React, Tailwind CSS, and Glide.js.
 
 [Figma Link Here](https://www.figma.com/community/file/858999227165747995/freebies-landingpage-laslesvpn?searchSessionId=lsh8v38f-3va7guzfvxh)
 
